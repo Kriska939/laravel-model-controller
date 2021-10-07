@@ -9,7 +9,7 @@
 </head>
 <body>
     <main>
-        <h1>Prova Collegamento</h1>
+        @yield('content')
     </main>
 </body>
 </html>
